@@ -1,0 +1,1 @@
+-- SQL script: s8_grant_user_myfc.sql
